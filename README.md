@@ -1,6 +1,6 @@
 # Project1_BackEnd
 Project 1 Reimbursement System Python.
-An Expense Reimbursement System that allows employee to submit reimbursement requests to their managers. The managers can then choose to approve or deny those requests.
+An Expense Reimbursement System that allows employees and managers to login to their respective dashbaords. The employees can submit reimbursement requests to their managers. The managers can then choose to approve or deny those requests.
 
 Technologies Used:
 Python
